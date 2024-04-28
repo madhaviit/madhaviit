@@ -1,14 +1,14 @@
 ## Hey there! 👋 I'm Madhav Kadam
 <a href='https://www.linkedin.com/in/madhav-kadam/'><img align='left' alt="linkedin" src="assets/linkedin.svg" height='18px'/></a>
 <a href='https://x.com/kpmadhav18'><img align='left' alt="twitter" src="assets/twitter.svg" height='18px'/></a>
-🎓 I'm a passionate Computer Science undergraduate at the prestigious Indian Institute of Technology (IIT) Indore (2021-2025), with a keen interest in development, Artificial Intelligence, and Machine Learning.
+🎓 I'm a passionate Computer Science undergraduate at the Indian Institute of Technology (IIT) Indore (2021-2025), with a keen interest in development, Artificial Intelligence, and Machine Learning.
 
 <br/>
 
 <img align="right" alt="GIF" src="techstack.gif" width="240px"/>
   
 ### 🧐 More About Me:
-- 🚀 I love exploring new technologies and leveraging them to solve real-world problems. Solving complex analytical problems excites me, and I enjoy engaging in thought-provoking debates and discussions.
+- 🚀 I love exploring new technologies and leveraging them to solve real-world problems. I enjoy engaging in thought-provoking debates and discussions.
 - 💻 Passionate and inquisitive about the field of Generative AI and Computer Vision. Equally intrigued by the privacy and security aspects of technology, both in their development and application. Actively expanding my understanding in these areas.
 - 👨‍💻 Many of my projects are available on [GitHub](https://github.com/madhaviit?tab=repositories).
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/madhav-kadam/) for professional collaborations or engaging discussions.
