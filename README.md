@@ -15,7 +15,7 @@
 - 📚 In my free time, I enjoy reading, swimming, and participating in coding competitions. I'm also a foodie and nature lover, always seeking new culinary experiences and outdoor adventures.
 
 
-<br>
+<br></br>
 
 
 ### 🔨 Languages and Tools:
@@ -23,8 +23,8 @@
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<br>
-<br>
+<br></br>
+<br></br>
 ### 📊 Github Stats
 <a href='https://github.com/madhaviit/github-stats-transparent'>
   
@@ -32,8 +32,7 @@
 
 </a>
 
-<br>
-<br>
+<br></br>
 ### 🛠️ Recent Project Repos
 <a href="https://github.com/madhaviit/Adobe-Behaviour-Simulation-Challenge" target="_blank"> <img alt="adobechallenge" src="assets/adobe.svg" height="68" align="left"> </a>
 <a href="https://github.com/madhaviit/Cloudphysician-InterIIT2023.git" target="_blank"> <img alt="vitalsextraction" src="assets/Cloudphy.svg"  height="68" align="left"> </a>
